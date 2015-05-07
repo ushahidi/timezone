@@ -148,5 +148,23 @@
     "avatar": "https://secure.gravatar.com/avatar/34b18fdb8cceb1f7f89e23d62504fb0f?s=48&d=&r=R",
     "city": "Nairobi",
     "tz": "Africa/Nairobi"
+  },
+  {
+    "name": "Charlie",
+    "avatar": "https://secure.gravatar.com/avatar/9caf66cdefc5db7125eded1f610162ff?s=48&d=&r=R",
+    "city": "Los Angeles",
+    "tz": "America/Los_Angeles"
+  },
+  {
+    "name": "Jim",
+    "avatar": "https://secure.gravatar.com/avatar/15755a96d207b85235b7ecfcb05fdbfc?s=120&d=&r=R",
+    "city": "New York",
+    "tz": "America/New_York"
+  },
+  {
+    "name": "Tonny",
+    "avatar": "https://secure.gravatar.com/avatar/57b82c2b8ac47f6acdfe663104f410f5?s=120&d=&r=R",
+    "city": "Kampala, Uganda",
+    "tz": "Africa/Kampala"
   }
 ]
