@@ -166,5 +166,11 @@
     "avatar": "https://secure.gravatar.com/avatar/57b82c2b8ac47f6acdfe663104f410f5?s=120&d=&r=R",
     "city": "Kampala, Uganda",
     "tz": "Africa/Kampala"
+  },
+  {
+    "name": "Bill Doran",
+    "avatar": "https://secure.gravatar.com/avatar/84fa15c8b8b2b2d35be66930a0cd2e7b?s=120&d=&r=R",
+    "city": "Montreal, Canada",
+    "tz": "America/Montreal"
   }
 ]
