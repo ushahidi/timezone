@@ -6,12 +6,6 @@
     "tz": "Asia/Tokyo"
   },
   {
-    "name": "Chris",
-    "avatar": "https://secure.gravatar.com/avatar/9e0c9e301ff6d78900dc5f7bb84bb513?s=120&d=&r=R",
-    "city": "Hereford, AZ",
-    "tz": "America/Phoenix"
-  },
-  {
     "name": "Vaibhav",
     "avatar": "https://secure.gravatar.com/avatar/150b4f26ca5e3eeb016e9c7465bcae19?s=120&d=&r=R",
     "city": "Bangalore, India",
@@ -82,12 +76,6 @@
     "avatar": "https://secure.gravatar.com/avatar/eca5a7739dc452c6b7258b0c25236c29?s=120&d=&r=R",
     "city": "Nairobi, Kenya",
     "tz": "Africa/Nairobi"
-  },
-  {
-    "name": "Jonathon",
-    "avatar": "https://secure.gravatar.com/avatar/3a1976f0ddfee34a3035efcc3ddebd5b?s=120&d=&r=R",
-    "city": "Austin, TX",
-    "tz": "America/Chicago"
   },
   {
     "name": "Greg",
