@@ -148,5 +148,11 @@
     "avatar": "https://secure.gravatar.com/avatar/84fa15c8b8b2b2d35be66930a0cd2e7b?s=120&d=&r=R",
     "city": "Montreal, Canada",
     "tz": "America/Montreal"
+  },
+  {
+    "name": "Irene",
+    "avatar": "https://secure.gravatar.com/avatar/070e25448ba3526a4000324240c69815?s=120&d=&r=R",
+    "city": "Washington, DC",
+    "tz": "America/Toronto"
   }
 ]
