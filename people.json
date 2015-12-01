@@ -6,12 +6,6 @@
     "tz": "Asia/Tokyo"
   },
   {
-    "name": "Vaibhav",
-    "avatar": "https://secure.gravatar.com/avatar/150b4f26ca5e3eeb016e9c7465bcae19?s=120&d=&r=R",
-    "city": "Bangalore, India",
-    "tz": "Asia/Kolkata"
-  },
-  {
     "name": "Seth",
     "avatar": "https://secure.gravatar.com/avatar/c89713ce9e84c610f262ce53a01e0b4a?s=120&d=&r=R",
     "city": "Greensboro, North Carolina",
@@ -24,28 +18,10 @@
     "tz": "America/Toronto"
   },
   {
-    "name": "Brian",
-    "avatar": "https://secure.gravatar.com/avatar/6c93aba4f1bfc1f5302f4af7c5ecb56d?s=120&d=&r=R",
-    "city": "Louisville, Kentucky",
-    "tz": "America/Kentucky/Louisville"
-  },
-  {
-    "name": "Michelle",
-    "avatar": "https://secure.gravatar.com/avatar/d3cebf324bab8b1ba9e3ce9894089f89?s=120&d=&r=R",
-    "city": "Toronto, Canada",
-    "tz": "America/Toronto"
-  },
-  {
     "name": "Linda",
     "avatar": "https://secure.gravatar.com/avatar/eac7707b1d94e619add99353b2977b6f?s=120&d=&r=R",
     "city": "Nairobi, Kenya",
     "tz": "Africa/Nairobi"
-  },
-  {
-    "name": "David Kobia",
-    "avatar": "https://secure.gravatar.com/avatar/09b5bf4dae1a83d404e552c6bf328d1b?s=120&d=&r=R",
-    "city": "Atlanta, Georgia",
-    "tz": "America/Toronto"
   },
   {
     "name": "Angela",
@@ -102,26 +78,8 @@
     "tz": "America/Chicago"
   },
   {
-    "name": "Juliana",
-    "avatar": "https://secure.gravatar.com/avatar/087805111e47d0a4d676b3d224460b3b?s=120&d=&r=R",
-    "city": "Nairobi, Kenya",
-    "tz": "Africa/Nairobi"
-  },
-  {
-    "name": "Sophie",
-    "avatar": "https://secure.gravatar.com/avatar/2aa005d5fe6ed3daed0b657ab0f7ebcb?s=48&d=&r=R",
-    "city": "Austin",
-    "tz": "America/Chicago"
-  },
-  {
     "name": "Jess",
     "avatar": "https://secure.gravatar.com/avatar/df5486472881b8e8fedee4f5cde6c929?s=120&d=&r=R",
-    "city": "Nairobi",
-    "tz": "Africa/Nairobi"
-  },
-  {
-    "name": "Limo",
-    "avatar": "https://secure.gravatar.com/avatar/34b18fdb8cceb1f7f89e23d62504fb0f?s=48&d=&r=R",
     "city": "Nairobi",
     "tz": "Africa/Nairobi"
   },
@@ -130,12 +88,6 @@
     "avatar": "https://secure.gravatar.com/avatar/9caf66cdefc5db7125eded1f610162ff?s=48&d=&r=R",
     "city": "Los Angeles",
     "tz": "America/Los_Angeles"
-  },
-  {
-    "name": "Tonny",
-    "avatar": "https://secure.gravatar.com/avatar/57b82c2b8ac47f6acdfe663104f410f5?s=120&d=&r=R",
-    "city": "Kampala, Uganda",
-    "tz": "Africa/Kampala"
   },
   {
     "name": "Will",
