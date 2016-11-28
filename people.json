@@ -1,11 +1,5 @@
 [
   {
-    "name": "Henry",
-    "avatar": "https://secure.gravatar.com/avatar/205cd58c2f80e595e128eedaa4eca713?s=120&d=&r=R",
-    "city": "Sendai",
-    "tz": "Asia/Tokyo"
-  },
-  {
     "name": "Seth",
     "avatar": "https://secure.gravatar.com/avatar/c89713ce9e84c610f262ce53a01e0b4a?s=120&d=&r=R",
     "city": "Greensboro, North Carolina",
@@ -46,18 +40,6 @@
     "avatar": "https://secure.gravatar.com/avatar/253033cfcce2e727055c698dcb4d5f69?s=120&d=&r=R",
     "city": "San Francisco",
     "tz": "America/Los_Angeles"
-  },
-  {
-    "name": "Sebastian",
-    "avatar": "https://secure.gravatar.com/avatar/eca5a7739dc452c6b7258b0c25236c29?s=120&d=&r=R",
-    "city": "Nairobi, Kenya",
-    "tz": "Africa/Nairobi"
-  },
-  {
-    "name": "Greg",
-    "avatar": "https://secure.gravatar.com/avatar/f0528fe6e828ea6b8fada555ab8c44d2?s=120&d=&r=R",
-    "city": "Nairobi, Kenya",
-    "tz": "Africa/Nairobi"
   },
   {
     "name": "Esther",
@@ -106,5 +88,17 @@
     "avatar": "https://secure.gravatar.com/avatar/50c104ab1fd0d981b89cbc789384e665?s=120&d=&r=R",
     "city": "Nairobi",
     "tz": "Africa/Nairobi"
+  },
+  {
+    "name": "Anna",
+    "avatar": "https://avatars1.githubusercontent.com/u/8624777?v=3&s=120",
+    "city": "Uppsala",
+    "tz": "Europe/Stockholm"
+  },
+  {
+    "name": "David McNamara",
+    "avatar": "https://avatars1.githubusercontent.com/u/233644?v=3&s=120",
+    "city": "Dublin",
+    "tz": "Europe/Dublin"
   }
 ]
