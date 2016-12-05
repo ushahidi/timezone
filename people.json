@@ -103,6 +103,7 @@
   }, 
   {
     "name": "Steven",
+    "avatar": "https://secure.gravatar.com/avatar/57cac337508917ae79a211f1e76bf092.jpg", 
     "city": "Washington D.C.",
     "tz": "America/Toronto"
   }
