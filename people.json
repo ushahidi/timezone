@@ -62,7 +62,7 @@
   {
     "name": "Jess",
     "avatar": "https://secure.gravatar.com/avatar/df5486472881b8e8fedee4f5cde6c929?s=120&d=&r=R",
-    "city": "Nairobi",
+    "city": "Seattle",
     "tz": "America/Los_Angeles"
   },
   {
@@ -100,5 +100,10 @@
     "avatar": "https://avatars1.githubusercontent.com/u/233644?v=3&s=120",
     "city": "Dublin",
     "tz": "Europe/Dublin"
+  }, 
+  {
+    "name": "Steven",
+    "city": "Washington D.C.",
+    "tz": "America/Toronto"
   }
 ]
