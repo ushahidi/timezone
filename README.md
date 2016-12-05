@@ -1,7 +1,15 @@
 # Timezone
 
+> **Note** For the repo for the SaaS app **[Timezone.io](http://timezone.io)** 
+head over to **[timezoneio/timezoneio](https://github.com/timezoneio/timezoneio)**.
+This project is the original, simple version meant to be self-hosted. Please
+feel free to sign up for free at **[Timezone.io](http://timezone.io)** and 
+contribute issues and pull requests on that project's repo!
+
 Timezone is an application aimed at helping remote teams by making it easier
-to see where and **when** their coworkers are.
+to see where and **when** their coworkers are. This project was the basis for 
+the larger [Timezone.io](https://github.com/timezoneio/timezoneio) project and
+is meant for self-hosting.
 
 ![Screenshot](https://dl.dropboxusercontent.com/u/50627698/timezone-github.png)
 
@@ -28,6 +36,10 @@ Each person object should have data in the following format:
 ]
 ```
 
+# Configuration
+
+By default, timezone uses port 3000.  This port can be changed by setting
+the environment variable, `PORT`.  i.e. `PORT=80` to use port 80.
 
 # Deploy
 
